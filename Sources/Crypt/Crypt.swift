@@ -1,19 +1,6 @@
 import Flutter
 
-public class MyLibrary {
 
-    var myLibraryFlutterChannel: MyLibraryFlutterChannel
-    var methodChannel: FlutterMethodChannel
-
-//    public init(origin: String, apiKey: String, onBuild: TikiSdkCompletion? = nil) {
-//        myLibraryFlutterChannel = MyLibraryFlutterChannel()
-//        methodChannel = myLibraryFlutterChannel.methodChannel
-//    }
-//
-//    public func someMethod(){
-//        methodChannel.invokeMethod('someMethod')
-//    }
-}
 
 public class MyLibraryFlutterChannel {
 
